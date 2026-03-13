@@ -1,0 +1,9 @@
+announcement:
+  label: Announcement
+  permalink: /announcement
+  description: Site and roadmap updates
+
+learning:
+  label: Learning
+  permalink: /learning
+  description: Study guides and educational notes
