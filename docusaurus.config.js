@@ -32,8 +32,7 @@ const config = {
       {
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl:
-            'https://github.com/visual-ai-ml-hub/visual-ai-ml-hub.github.io/tree/main/',
+          // Remove editUrl to disable "Edit this page" link
         },
         blog: {
           showReadingTime: true,
@@ -41,8 +40,7 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl:
-            'https://github.com/visual-ai-ml-hub/visual-ai-ml-hub.github.io/tree/main/',
+          // Remove editUrl to disable "Edit this page" link
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
